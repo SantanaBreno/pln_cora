@@ -1,0 +1,9 @@
+torch
+transformers
+scikit-learn
+numpy
+gensim
+pydantic
+requests
+pytest
+pika
